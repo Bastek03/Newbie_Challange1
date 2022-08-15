@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Newbie_Challange1/static/css/main.f6d4ad74.css",
+    "main.css": "/Newbie_Challange1/static/css/main.3b147d97.css",
     "main.js": "/Newbie_Challange1/static/js/main.bf4082cd.js",
     "static/media/image-product-desktop.jpg": "/Newbie_Challange1/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
     "static/media/image-product-mobile.jpg": "/Newbie_Challange1/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
     "index.html": "/Newbie_Challange1/index.html",
     "static/media/icon-cart.svg": "/Newbie_Challange1/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
-    "main.f6d4ad74.css.map": "/Newbie_Challange1/static/css/main.f6d4ad74.css.map",
+    "main.3b147d97.css.map": "/Newbie_Challange1/static/css/main.3b147d97.css.map",
     "main.bf4082cd.js.map": "/Newbie_Challange1/static/js/main.bf4082cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6d4ad74.css",
+    "static/css/main.3b147d97.css",
     "static/js/main.bf4082cd.js"
   ]
 }
