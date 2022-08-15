@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-product-preview-react-oORFqmq2Ka)
 - Live Site URL: [Live site](https://bastek03.github.io/Newbie_Challange1/)
 
 ### Built with
